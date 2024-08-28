@@ -1,4 +1,4 @@
-# Captionizer: Beautiful Quote Suggestions by AI:sparkles:
+# Captionizer: Beautiful Quote Suggestions by AI:
 Sucked :unamused: by searching some nice quotes for your post online. Bored of posting random quotes with your images.
 
 Use captionizer to suggest some quotes from the internet that are suitable to your image through AI. 
@@ -80,9 +80,9 @@ npm run start
 
 ## Authors
 
-- [@rohitmirchandani](https://www.github.com/rohitmirchandani)
+- [@rohitmirchandani](https://www.github.com/Priyanshu28)
 
 
 ## Feedback
 
-For feedback, email rohitmirchandani365@gmail.com.
+For feedback, email priyanshu9630@gmail.com.
